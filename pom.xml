@@ -56,9 +56,9 @@
 	<inceptionYear>2014</inceptionYear>
 
 	<scm>
-		<url>https://github.com/runelite/runelite</url>
-		<connection>scm:git:git://github.com/runelite/runelite</connection>
-		<developerConnection>scm:git:git@github.com:runelite/runelite</developerConnection>
+		<url>https://github.com/FrostyFridge/runelite</url>
+		<connection>scm:git:git://github.com/FrostyFridge/runelite</connection>
+		<developerConnection>scm:git:git@github.com:FrostyFridge/runelite</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
@@ -72,7 +72,7 @@
 
 	<issueManagement>
 		<system>GitHub Issues</system>
-		<url>https://github.com/runelite/runelite/issues</url>
+		<url>https://github.com/FrostyFridge/runelite/issues</url>
 	</issueManagement>
 
 	<ciManagement>
